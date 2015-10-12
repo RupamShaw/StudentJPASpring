@@ -15,7 +15,7 @@ public class StudentJPADAO implements StudentDAO {
 
 	public StudentJPADAO() {
 		// TODO Auto-generated constructor stub
-		System.out.println("StudentJDODAO  666 --Constructor()");
+		System.out.println("StudentccJDODAO  666 --Constructor()");
 		// System.out.println("Classname.Methodname"+className+"."+methodName);
 	}
 
